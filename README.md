@@ -17,7 +17,7 @@
 
 ## 📂 Projects (Work in Progress)
 - **Employee Dashboard** *(React + .NET Core + PostgreSQL)*  
-  🚧 Work in progress – Building an interactive dashboard for HR data  
+    Built an interactive dashboard for HR data  
 
 - **Mini E-commerce App** *(React + .NET Core)*  
   🚧 Work in progress – Product listing, cart & checkout features  
